@@ -8,10 +8,12 @@
 	<a href="https://www.linkedin.com/in/osvalr/">
 		<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
 	</a>
-	<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/osvalr"/>
-	<img src="https://img.shields.io/twitter/follow/ImOsval"/>
-	<img src="https://img.shields.io/twitch/status/La_Carcaza"/>
-	
+	<a href="https://x.com/imOsval">
+		<img src="https://img.shields.io/twitter/follow/imosval">
+	</a>
+	<a href="https://www.twitch.tv/la_carcaza">
+		<img src="https://img.shields.io/twitch/status/La_Carcaza"/>
+	</a>
 </p>
 
 ## Languages
